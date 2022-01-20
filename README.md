@@ -3,7 +3,7 @@
 
 - ✨I’m currently working in the backend of a website for a startup business
 - 🔭 These days I'm learning Machine Learning.
-- 🎯 2021 Goals: Competitive Programming, Machine Learning
+- 🎯 2022 Goals: Competitive Programming, Machine Learning
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love developing amazing things and learn new technologies
 
