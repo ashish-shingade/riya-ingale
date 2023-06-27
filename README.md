@@ -1,29 +1,21 @@
 ### Hey there 👋, I am Riya
-#### I am Computer Science Engineering Student
-
-- ✨I’m currently working in the backend of a website for a startup business
-- 🔭 These days I'm learning Machine Learning.
-- 🎯 2022 Goals: Competitive Programming, Machine Learning
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love developing amazing things and learn new technologies
+#### I am Computer Engineer
 
 ## <img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width="25" /> My Skills
  
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-purple?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c++)
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap5](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQlite-CB3837?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MYSQL-2C8EBB?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-grey?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-00C7B7?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /> Connect with Me
